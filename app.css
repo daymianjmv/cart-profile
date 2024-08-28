@@ -151,7 +151,7 @@
       height: 2px;
       top: 24px;
       left: 18px;
-      background: #fff;
+      background: #ffffff;
   }
 
   .image .plus:after {
@@ -426,7 +426,7 @@
       height: 50px;
       top: 10px;
       left: 10px;
-      background: var(--color);
+      background: var(black);
       border-radius: 50%;
       transition: background 0.3s ease-in-out, transform 0.5s ease-in;
       transform: rotate(45deg) translate3d(-105%, -105%, 0);
@@ -440,7 +440,7 @@
       height: 2px;
       top: 24px;
       left: 18px;
-      background: #fff;
+      background: #000000;
       transition: all 0.3s ease-in-out;
   }
 
@@ -451,7 +451,7 @@
       height: 14px;
       top: 18px;
       left: 24px;
-      background: #fff;
+      background: #000000;
       transition: all 0.3s ease-in-out;
   }
 
