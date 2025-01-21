@@ -381,6 +381,7 @@
       text-align: center;
       padding-top: 28px;
       transition: all 0.4s ease-in-out;
+      color: rgb(213, 213, 213);
   }
 
   .stats .box:hover {
